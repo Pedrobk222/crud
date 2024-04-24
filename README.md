@@ -1,2 +1,2 @@
 # crud
-crud do trabalho de nuvem
+CRUD: Projeto 1 de Nuvem para Aplicação Web.
